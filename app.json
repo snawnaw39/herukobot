@@ -1,0 +1,32 @@
+{
+    "name": "Bin-Checker Bot",
+    "description": "A telegram Bin-Checker Bot to check is bins are valid or not.",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "bin"
+    ],
+    "repository": "https://github.com/SidraELEzz",
+    "website": "t.me/SidraTools",
+    "success_url": "https://t.me/SidraTools",
+    "env": {
+        "API_HASH": {
+            "description": "Your API HASH from my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": "1607098694"
+        },
+        "TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": "1861034977:AAEINyF6TQZZ4XhsDk2Nw3KGa2fW5kv0jYc"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
