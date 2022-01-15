@@ -8,8 +8,8 @@
         "bin"
     ],
     "repository": "https://github.com/snawnaw39",
-    "website": "t.me/itsdebilahaak",
-    "success_url": "https://t.me/itsdebilahaak",
+    "website": "https://t.me/itsdebilahaack",
+    "success_url": "https://t.me/itsdebilahaack",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
