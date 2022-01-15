@@ -7,9 +7,9 @@
         "telegram-bot",
         "bin"
     ],
-    "repository": "https://github.com/SidraELEzz",
-    "website": "t.me/SidraTools",
-    "success_url": "https://t.me/SidraTools",
+    "repository": "https://github.com/snawnaw39",
+    "website": "t.me/itsdebilahaak",
+    "success_url": "https://t.me/itsdebilahaak",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
