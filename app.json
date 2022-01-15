@@ -8,7 +8,7 @@
         "bin"
     ],
     "repository": "https://github.com/snawnaw39",
-    "website": "https://t.me/itsdebilahaack",
+    "website": "t.me/itsdebilahaack",
     "success_url": "https://t.me/itsdebilahaack",
     "env": {
         "API_HASH": {
